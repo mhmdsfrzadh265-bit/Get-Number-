@@ -125,7 +125,7 @@ async def started (update, context) :
 
     w_user(name, user_name, user_id)
 
-    text = f"درود {name}.\nکیر شدی، شمارتو گرفتم."
+    text = f"درود {name}."
     await update.message.reply_text(
         text,
         reply_markup = k_phone()
