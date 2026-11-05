@@ -21,7 +21,7 @@ ADMIN_ID = 6025545911
 
 ###token 
 
-BOT_TOKEN "9061573445:AAEpTuLazXnv-3oneiC6PFSuO1A52zJM64c"
+BOT_TOKEN = "9061573445:AAEpTuLazXnv-3oneiC6PFSuO1A52zJM64c"
 
 if BOT_TOKEN == "" :
     print("Please enter a bot token and rerunning")
